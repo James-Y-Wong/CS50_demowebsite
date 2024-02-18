@@ -9,6 +9,7 @@ h1 {
 
 footer {
     text-align: center;
+    font-size: 36px;
 }
 
 table {
@@ -26,4 +27,8 @@ table {
 
 body {
     background-color: beige;
+}
+
+td {
+    font-size: 36px;
 }
